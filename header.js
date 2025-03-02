@@ -3,7 +3,7 @@ document.write(`
       <div class="header-container">
         <div class="logo-container">
           <a href="https://sachininmindfire.github.io/" class="site-logo">
-            <span class="logo-text">Sachin's Dev Tools</span>
+            <span class="logo-text">Sachin's Tech Blog</span>
           </a>
         </div>
         
@@ -19,11 +19,13 @@ document.write(`
                 <li><a href="https://sachininmindfire.github.io/text-diff/">Text Diff Tool</a></li>
                 <li><a href="https://sachininmindfire.github.io/sql-poco-app/">SQL POCO Generator</a></li>
                 <li><a href="https://sachininmindfire.github.io/sql-diagrams/">SQL Diagrams</a></li>
-                <!-- Add more tools as needed -->
+                <li><a href="https://sachininmindfire.github.io/free-api/">Free JSON API</a></li>                
               </ul>
             </li>
-            <li class="nav-item"><a href="https://sachininmindfire.github.io/blog/">Blog</a></li>
-            <li class="nav-item"><a href="https://sachininmindfire.github.io/tutorials/">Tutorials</a></li>
+            <li class="nav-item"><a href="https://sachininmindfire.github.io">Blog Home</a></li>
+            <li class="nav-item"><a href="https://sachininmindfire.github.io/articles">Articles</a></li>
+            <li class="nav-item"><a href="https://sachininmindfire.github.io/terms">Terms</a></li>
+            <li class="nav-item"><a href="https://sachininmindfire.github.io/tips">Tips</a></li>
             <li class="nav-item"><a href="https://sachininmindfire.github.io/about/">About</a></li>
             <li class="nav-item"><a href="https://sachininmindfire.github.io/contact/">Contact</a></li>
           </ul>
@@ -41,7 +43,7 @@ document.write(`
       
       /* Header styling */
       .site-header {
-        background-color: #24292e;
+        background-color: #2a6aaa;
         color: #ffffff;
         padding: 1rem 0;
         position: relative;

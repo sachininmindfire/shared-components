@@ -7,13 +7,17 @@ document.write(`
             <li><a href="https://sachininmindfire.github.io/text-diff/">Text Diff Tool</a></li>
             <li><a href="https://sachininmindfire.github.io/sql-poco-app/">SQL POCO Generator</a></li>
             <li><a href="https://sachininmindfire.github.io/sql-diagrams/">SQL Diagrams</a></li>
+            <li><a href="https://sachininmindfire.github.io/free-api/">Free JSON API</a></li>
           </ul>
         </div>
         
         <div class="footer-section">
           <h3>Resources</h3>
           <ul>
-            <li><a href="https://sachininmindfire.github.io">Blog</a></li>
+            <li><a href="https://sachininmindfire.github.io">Blog Home</a></li>
+            <li><a href="https://sachininmindfire.github.io/articles">Articles</a></li>
+            <li><a href="https://sachininmindfire.github.io/terms">Terms</a></li>
+            <li<a href="https://sachininmindfire.github.io/tips">Tips</a></li>
             <li><a href="https://sachininmindfire.github.io/about/">About</a></li>
             <li><a href="https://sachininmindfire.github.io/contact/">Contact</a></li>
           </ul>
