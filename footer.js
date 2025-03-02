@@ -13,7 +13,7 @@ document.write(`
         <div class="footer-section">
           <h3>Resources</h3>
           <ul>
-            <li><a href="https://sachininmindfire.github.io/blog/">Blog</a></li>
+            <li><a href="https://sachininmindfire.github.io">Blog</a></li>
             <li><a href="https://sachininmindfire.github.io/about/">About</a></li>
             <li><a href="https://sachininmindfire.github.io/contact/">Contact</a></li>
           </ul>
@@ -23,8 +23,8 @@ document.write(`
           <h3>Connect</h3>
           <div class="social-links">
             <a href="https://github.com/sachininmindfire" target="_blank" rel="noopener">GitHub</a>
-            <a href="https://twitter.com/yourusername" target="_blank" rel="noopener">Twitter</a>
-            <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener">LinkedIn</a>
+            <a href="http://in.linkedin.com/pub/sachin-kumar/22/176/928" target="_blank" rel="noopener">Twitter</a>
+            <a href="http://in.linkedin.com/pub/sachin-kumar/22/176/928" target="_blank" rel="noopener">LinkedIn</a>
           </div>
         </div>
       </div>
