@@ -4,8 +4,8 @@ document.write(`
         <div class="footer-section">
           <h3>Developer Tools</h3>
           <ul>
-            <li><a href="https://sachininmindfire.github.io/text-diff/">Text Diff Tool</a></li>
-            <li><a href="https://sachininmindfire.github.io/sql-poco-app/">SQL POCO Generator</a></li>
+            <li><a href="/text-diff/">Text Diff Tool</a></li>
+            <li><a href="/sql-poco-app/">SQL POCO Generator</a></li>
             <li><a href="https://sachininmindfire.github.io/sql-diagrams/">SQL Diagrams</a></li>
              <li><a href="https://sachininmindfire.github.io/free-api/">Free JSON API</a></li>
             <li><a href="https://sachininmindfire.github.io/md-pdf-convertor/">Md To PDF Convertor</a></li>
