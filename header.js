@@ -19,7 +19,9 @@ document.write(`
                 <li><a href="https://sachininmindfire.github.io/text-diff/">Text Diff Tool</a></li>
                 <li><a href="https://sachininmindfire.github.io/sql-poco-app/">SQL POCO Generator</a></li>
                 <li><a href="https://sachininmindfire.github.io/sql-diagrams/">SQL Diagrams</a></li>
-                <li><a href="https://sachininmindfire.github.io/free-api/">Free JSON API</a></li>                
+                <li><a href="https://sachininmindfire.github.io/free-api/">Free JSON API</a></li>
+                <li><a href="https://sachininmindfire.github.io/md-pdf-convertor/">Md To PDF Convertor</a></li>
+                <li><a href="https://sachininmindfire.github.io/json-formatter/">Json Formatter</a></li>                
               </ul>
             </li>
             <li class="nav-item"><a href="https://sachininmindfire.github.io">Blog Home</a></li>
