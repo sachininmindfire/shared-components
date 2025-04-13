@@ -1,5 +1,5 @@
 document.write(`
-    <header class="site-header">
+    <header class="site-top-header">
       <div class="header-container">
         <div class="logo-container">
           <a href="/" class="site-logo">
@@ -12,7 +12,7 @@ document.write(`
             <span class="menu-icon"></span>
           </button>
           
-          <ul class="nav-links">
+          <ul class="nav-links-header">
             <li class="nav-item dropdown">
               <a href="#" class="dropdown-toggle">Tools</a>
               <ul class="dropdown-menu">
@@ -24,7 +24,7 @@ document.write(`
                 <li><a href="/json-formatter/">Json Formatter</a></li>                
               </ul>
             </li>
-            <li class="nav-item"><a href="">Blog Home</a></li>
+            <li class="nav-item"><a href="/">Blog Home</a></li>
             <li class="nav-item"><a href="/articles">Articles</a></li>
             <li class="nav-item"><a href="/terms">Terms</a></li>
             <li class="nav-item"><a href="/tips">Tips</a></li>
@@ -37,14 +37,14 @@ document.write(`
   
     <style>
       /* Reset some basic elements */
-      .site-header * {
+      .site-top-header * {
         margin: 0;
         padding: 0;
         box-sizing: border-box;
       }
       
       /* Header styling */
-      .site-header {
+      .site-top-header {
         background-color: #2a6aaa;
         color: #ffffff;
         padding: 1rem 0;
@@ -86,7 +86,7 @@ document.write(`
         align-items: center;
       }
       
-      .nav-links {
+      .nav-links-header {
         display: flex;
         list-style: none;
       }
@@ -203,7 +203,7 @@ document.write(`
           padding: 0.5rem;
         }
         
-        .nav-links {
+        .nav-links-header {
           position: absolute;
           top: 100%;
           left: 0;
@@ -215,7 +215,7 @@ document.write(`
           z-index: 100;
         }
         
-        .nav-links.active {
+        .nav-links-header.active {
           display: flex;
         }
         
@@ -245,7 +245,7 @@ document.write(`
       // Add mobile menu functionality
       document.addEventListener('DOMContentLoaded', function() {
         const menuButton = document.querySelector('.mobile-menu-button');
-        const navLinks = document.querySelector('.nav-links');
+        const navLinks = document.querySelector('.nav-links-header');
         
         if (menuButton && navLinks) {
           menuButton.addEventListener('click', function() {
