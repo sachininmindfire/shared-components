@@ -2,7 +2,7 @@ document.write(`
     <header class="site-header">
       <div class="header-container">
         <div class="logo-container">
-          <a href="https://sachininmindfire.github.io/" class="site-logo">
+          <a href="/" class="site-logo">
             <span class="logo-text">Toolbuttons.in</span>
           </a>
         </div>
@@ -16,20 +16,20 @@ document.write(`
             <li class="nav-item dropdown">
               <a href="#" class="dropdown-toggle">Tools</a>
               <ul class="dropdown-menu">
-                <li><a href="https://sachininmindfire.github.io/text-diff/">Text Diff Tool</a></li>
-                <li><a href="https://sachininmindfire.github.io/sql-poco-app/">SQL POCO Generator</a></li>
-                <li><a href="https://sachininmindfire.github.io/sql-diagrams/">SQL Diagrams</a></li>
-                <li><a href="https://sachininmindfire.github.io/free-api/">Free JSON API</a></li>
-                <li><a href="https://sachininmindfire.github.io/md-pdf-convertor/">Md To PDF Convertor</a></li>
-                <li><a href="https://sachininmindfire.github.io/json-formatter/">Json Formatter</a></li>                
+                <li><a href="/text-diff/">Text Diff Tool</a></li>
+                <li><a href="/sql-poco-app/">SQL POCO Generator</a></li>
+                <li><a href="/sql-diagrams/">SQL Diagrams</a></li>
+                <li><a href="/free-api/">Free JSON API</a></li>
+                <li><a href="/md-pdf-convertor/">Md To PDF Convertor</a></li>
+                <li><a href="/json-formatter/">Json Formatter</a></li>                
               </ul>
             </li>
-            <li class="nav-item"><a href="https://sachininmindfire.github.io">Blog Home</a></li>
-            <li class="nav-item"><a href="https://sachininmindfire.github.io/articles">Articles</a></li>
-            <li class="nav-item"><a href="https://sachininmindfire.github.io/terms">Terms</a></li>
-            <li class="nav-item"><a href="https://sachininmindfire.github.io/tips">Tips</a></li>
-            <li class="nav-item"><a href="https://sachininmindfire.github.io/about/">About</a></li>
-            <li class="nav-item"><a href="https://sachininmindfire.github.io/contact/">Contact</a></li>
+            <li class="nav-item"><a href="">Blog Home</a></li>
+            <li class="nav-item"><a href="/articles">Articles</a></li>
+            <li class="nav-item"><a href="/terms">Terms</a></li>
+            <li class="nav-item"><a href="/tips">Tips</a></li>
+            <li class="nav-item"><a href="/about/">About</a></li>
+            <li class="nav-item"><a href="/contact/">Contact</a></li>
           </ul>
         </nav>
       </div>

@@ -6,19 +6,19 @@ document.write(`
           <ul>
             <li><a href="/text-diff/">Text Diff Tool</a></li>
             <li><a href="/sql-poco-app/">SQL POCO Generator</a></li>
-            <li><a href="https://sachininmindfire.github.io/sql-diagrams/">SQL Diagrams</a></li>
-             <li><a href="https://sachininmindfire.github.io/free-api/">Free JSON API</a></li>
-            <li><a href="https://sachininmindfire.github.io/md-pdf-convertor/">Md To PDF Convertor</a></li>
-            <li><a href="https://sachininmindfire.github.io/json-formatter/">Json Formatter</a></li>
+            <li><a href="/sql-diagrams/">SQL Diagrams</a></li>
+             <li><a href="/free-api/">Free JSON API</a></li>
+            <li><a href="/md-pdf-convertor/">Md To PDF Convertor</a></li>
+            <li><a href="/json-formatter/">Json Formatter</a></li>
           </ul>
         </div>
         
         <div class="footer-section">
           <h3>Resources</h3>
           <ul>
-            <li><a href="https://sachininmindfire.github.io">Blog</a></li>
-            <li><a href="https://sachininmindfire.github.io/about/">About</a></li>
-            <li><a href="https://sachininmindfire.github.io/contact/">Contact</a></li>
+            <li><a href="">Blog</a></li>
+            <li><a href="/about/">About</a></li>
+            <li><a href="/contact/">Contact</a></li>
           </ul>
         </div>
         
@@ -35,8 +35,8 @@ document.write(`
       <div class="footer-bottom">
         <p>&copy; ${new Date().getFullYear()} Toolbuttons.in. All rights reserved.</p>
         <p>
-          <a href="https://sachininmindfire.github.io/privacy-policy/">Privacy Policy</a> | 
-          <a href="https://sachininmindfire.github.io/terms/">Terms of Use</a>
+          <a href="/privacy-policy/">Privacy Policy</a> | 
+          <a href="/terms/">Terms of Use</a>
         </p>
       </div>
     </footer>
