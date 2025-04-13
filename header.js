@@ -3,7 +3,7 @@ document.write(`
       <div class="header-container">
         <div class="logo-container">
           <a href="https://sachininmindfire.github.io/" class="site-logo">
-            <span class="logo-text">Sachin's Tech Blog</span>
+            <span class="logo-text">Sachin's Dev Tools</span>
           </a>
         </div>
         
