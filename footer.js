@@ -7,20 +7,16 @@ document.write(`
             <li><a href="https://sachininmindfire.github.io/text-diff/">Text Diff Tool</a></li>
             <li><a href="https://sachininmindfire.github.io/sql-poco-app/">SQL POCO Generator</a></li>
             <li><a href="https://sachininmindfire.github.io/sql-diagrams/">SQL Diagrams</a></li>
-            <li><a href="https://sachininmindfire.github.io/free-api/">Free JSON API</a></li>
+             <li><a href="https://sachininmindfire.github.io/free-api/">Free JSON API</a></li>
             <li><a href="https://sachininmindfire.github.io/md-pdf-convertor/">Md To PDF Convertor</a></li>
             <li><a href="https://sachininmindfire.github.io/json-formatter/">Json Formatter</a></li>
-
           </ul>
         </div>
         
         <div class="footer-section">
           <h3>Resources</h3>
           <ul>
-            <li><a href="https://sachininmindfire.github.io">Blog Home</a></li>
-            <li><a href="https://sachininmindfire.github.io/articles">Articles</a></li>
-            <li><a href="https://sachininmindfire.github.io/terms">Terms</a></li>
-            <li<a href="https://sachininmindfire.github.io/tips">Tips</a></li>
+            <li><a href="https://sachininmindfire.github.io">Blog</a></li>
             <li><a href="https://sachininmindfire.github.io/about/">About</a></li>
             <li><a href="https://sachininmindfire.github.io/contact/">Contact</a></li>
           </ul>
@@ -37,7 +33,7 @@ document.write(`
       </div>
       
       <div class="footer-bottom">
-        <p>&copy; ${new Date().getFullYear()} Sachin's Developer Tools. All rights reserved.</p>
+        <p>&copy; ${new Date().getFullYear()} Toolbuttons.in. All rights reserved.</p>
         <p>
           <a href="https://sachininmindfire.github.io/privacy-policy/">Privacy Policy</a> | 
           <a href="https://sachininmindfire.github.io/terms/">Terms of Use</a>
