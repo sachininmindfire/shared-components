@@ -32,6 +32,40 @@ document.write(`
     </header>
   
     <style>
+      /* Common Reset and Base Styles */
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      html, body {
+        margin: 0;
+        padding: 0;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        background-color: var(--bg-color, #fff);
+        color: var(--text-color, #333);
+        transition: background-color 0.3s ease, color 0.3s ease;
+      }
+
+      /* Responsive Design for Main Navigation and Content Grid */
+      @media (max-width: 768px) {
+        .main-nav {
+          flex-direction: column;
+          gap: 1rem;
+          text-align: center;
+        }
+
+        .nav-links {
+          flex-direction: column;
+          gap: 1rem;
+        }
+
+        .content-grid {
+          grid-template-columns: 1fr;
+        }
+      }
+
       /* Reset some basic elements */
       .site-header * {
         margin: 0;
